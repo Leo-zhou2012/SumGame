@@ -1,0 +1,5 @@
+{
+  "name": "数字消除益智",
+  "description": "一款基于数学求和的益智游戏，通过选择数字达到目标和来消除方块，防止方块堆积到顶部。",
+  "requestFramePermissions": []
+}
